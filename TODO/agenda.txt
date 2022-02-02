@@ -1,0 +1,42 @@
+タスクばらし
+動作を確認するため、タスクを小さくする。
+【HTML】TODO入力フォームを作成
+【Bootstrap】見た目を整える
+    BootStrapを使う
+    CSSのフレームワーク
+    HTMLのクラス名を指定するだけで簡単にデザインできる
+    Headの中に、次のリンクをBootStrapのホームページからコピーして貼り付ける。
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" 
+   crossorigin="anonymous">
+
+   bodyの中にclass="bg-light"などと書く
+
+【JavaScript】TODOを表示・保存
+【JavaScript】TODOを削除
+【javaScript】TODOを完了
+
+
+https://www.youtube.com/watch?v=E08jeQBa1D0
+00:00:00​ intro
+00:02:33 JavaScriptとはどういうもの？
+00:06:55 開発環境を整えよう
+00:09:43 JavaScriptのコードを書こう
+00:13:26 TODOアプリを作ろう（作る順番、コツ、タスクばらし）
+00:15:39 入力フォームを作成しよう
+00:16:40 Bootstrapで見た目を整えよう
+00:19:35 documetを学ぼう
+00:23:11 変数を学ぼう（let, const, var）
+00:26:43 関数を学ぼう（function）
+00:28:34 addEventListenerを学ぼう
+00:30:34 フォームの入力値をファイルから取得しよう
+00:34:27 取得した値をHTML上に表示しよう
+00:39:07 条件分岐を学ぼう（if文）
+00:40:09 データ型を学ぼう
+00:44:37 型変換を学ぼう
+00:48:55 配列を学ぼう（array）
+00:52:01 ループを学ぼう（forEach）
+00:55:23 ローカルストレージを使おう
+01:01:17 TODOアプリの削除機能を付けよう
+01:06:45 オブジェクトを学ぼう（object）
+01:10:01 TODOアプリの完了機能を完成させよう
+01:15:10 エピローグ
