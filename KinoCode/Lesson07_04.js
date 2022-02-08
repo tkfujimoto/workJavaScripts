@@ -1,3 +1,4 @@
+// ブール型、あるいはBoolean型という
 var a = 10;
 var b = 1;
 var num_bool;
