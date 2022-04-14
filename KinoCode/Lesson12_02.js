@@ -1,5 +1,5 @@
 //関数式
-hello=function(){
+hello=function say_hello() {
     console.log("Hello World");
 }
 hello();

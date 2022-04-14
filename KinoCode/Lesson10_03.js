@@ -1,3 +1,4 @@
+// if ～ else文
 var age = 18;
 
 if (age >= 20) {

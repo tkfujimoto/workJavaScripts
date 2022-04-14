@@ -1,3 +1,5 @@
+// nameプロパティと5科目の得点、
+// cal_avg()とjudge(avg)メソッド
 class Student{
     constructor(name) {
         this.name =name;
